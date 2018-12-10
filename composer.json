@@ -1,0 +1,19 @@
+{
+    "name": "oscar/sliderphp",
+    "authors": [
+        {
+            "name": "Oscar Sanchez",
+            "email": "oscarsan1986@gmail.com"
+        }
+    ],
+    "require": {
+        "twbs/bootstrap": "~4.1.3",
+        "jayc89/php-mysql-pdo-database-class": "^2.0"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "SliderPhp\\": "src/"
+        }
+    }
+}

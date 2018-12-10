@@ -1,0 +1,98 @@
+[
+    {
+        "name": "jayc89/php-mysql-pdo-database-class",
+        "version": "2.0.0",
+        "version_normalized": "2.0.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/JamieCressey/php-mysql-pdo-database-class.git",
+            "reference": "2eef88a4e1bd6134630792c775c8b3cb3cf5f8ac"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/JamieCressey/php-mysql-pdo-database-class/zipball/2eef88a4e1bd6134630792c775c8b3cb3cf5f8ac",
+            "reference": "2eef88a4e1bd6134630792c775c8b3cb3cf5f8ac",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "time": "2014-10-19T09:52:52+00:00",
+        "type": "class",
+        "installation-source": "dist",
+        "autoload": {
+            "files": [
+                "Db.class.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Jamie Cressey",
+                "email": "jamiecressey89@gmail.com"
+            }
+        ],
+        "description": "PHP PDO MySQL Wrapper",
+        "homepage": "http://github.com/JayC89/php-mysql-pdo-database-class",
+        "keywords": [
+            "mysql",
+            "pdo"
+        ]
+    },
+    {
+        "name": "twbs/bootstrap",
+        "version": "v4.1.3",
+        "version_normalized": "4.1.3.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/twbs/bootstrap.git",
+            "reference": "3b558734382ce58b51e5fc676453bfd53bba9201"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/twbs/bootstrap/zipball/3b558734382ce58b51e5fc676453bfd53bba9201",
+            "reference": "3b558734382ce58b51e5fc676453bfd53bba9201",
+            "shasum": ""
+        },
+        "replace": {
+            "twitter/bootstrap": "self.version"
+        },
+        "time": "2018-07-24T15:54:34+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "3.3.x-dev"
+            }
+        },
+        "installation-source": "dist",
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Jacob Thornton",
+                "email": "jacobthornton@gmail.com"
+            },
+            {
+                "name": "Mark Otto",
+                "email": "markdotto@gmail.com"
+            }
+        ],
+        "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
+        "homepage": "https://getbootstrap.com/",
+        "keywords": [
+            "JS",
+            "css",
+            "framework",
+            "front-end",
+            "mobile-first",
+            "responsive",
+            "sass",
+            "web"
+        ]
+    }
+]
