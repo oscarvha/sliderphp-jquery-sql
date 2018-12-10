@@ -97,7 +97,7 @@ $siteController = new FrontController();
                     <span class="glyphicon glyphicon-arrow-up"></span>
                 </a>
                 <a href="#" class="js-edit-slider" data-id-slider="<?php echo $slider['id'] ?>">
-                    <span class="glyphicon glyphicon-arrow-pencil">hola</span>
+                    <span class="glyphicon glyphicon-pencil"></span>
                 </a>
 
             </td>
